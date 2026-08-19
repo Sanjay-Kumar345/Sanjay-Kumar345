@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi 👋 I'm Sanjay Kumar
+Senior DevOps Engineer | Azure Cloud | Terraform | Kubernetes
+🚀 8+ years of experience in DevOps and Cloud Engineering
 
-<!--
-**Sanjay-Kumar345/Sanjay-Kumar345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+☁️ Azure Cloud Engineer
+🏗️ Infrastructure as Code using Terraform
+🔄 CI/CD with Azure DevOps & GitHub Actions
+☸️ Kubernetes & Docker
+📊 Monitoring with ELK, Azure Monitor & Grafana
+🔐 Cloud Security & Governance
+Tech Stack
+Azure | Terraform | Kubernetes | Docker | Azure DevOps | Git | Linux | Helm | ELK | Grafana 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact
+📧 your-sanjaykumar192295@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/sanjay-kumar-6a4917230
