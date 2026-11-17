@@ -1,16 +1,5 @@
-Hi 👋 I'm Sanjay Kumar
-Senior DevOps Engineer | Azure Cloud | Terraform | Kubernetes
-🚀 8+ years of experience in DevOps and Cloud Engineering
+<img width="1844" height="2268" alt="image" src="https://github.com/user-attachments/assets/6ceded09-04a5-4723-8661-0efc6c7db6ae" />
 
-About Me
-☁️ Azure Cloud Engineer
-🏗️ Infrastructure as Code using Terraform
-🔄 CI/CD with Azure DevOps & GitHub Actions
-☸️ Kubernetes & Docker
-📊 Monitoring with ELK, Azure Monitor & Grafana
-🔐 Cloud Security & Governance
-Tech Stack
-Azure | Terraform | Kubernetes | Docker | Azure DevOps | Git | Linux | Helm | ELK | Grafana 
 
 
 Contact
